@@ -1,0 +1,84 @@
+.contactListBody{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.contactList{
+    text-align: start;
+    width: 100%;
+    margin-inline: 10rem;
+}
+.contactListHeading{
+    display: flex;
+    justify-content: space-between;
+    margin-block: 2rem;
+    align-items: center;
+}
+.contactListHeading h1{
+    font-size: 3rem;
+    font-family:sans-serif;
+}
+.contactListHeading img{
+   width: 6rem;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 1rem ;
+    padding-block: 0.5rem;
+    border-radius: 15px;
+    margin-top:2rem;
+    outline: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+.contactInfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+ .contactInfo img{
+       width:48px;
+    }
+  
+.link{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+.Action_btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+/* Media Queries ***************************** */
+@media screen and (width<1000px) {
+    .contactList{
+        margin-inline: 2rem;
+    }
+  }
+  @media screen and (width<600px) {
+    .contactListHeading h1{
+        font-size: 2rem;
+    }
+    .contactListHeading img{
+        width: 4rem;
+     }
+     .link h3{
+       font-size: 1rem;
+    }
+    .link p{
+        font-size: 0.8rem;
+     }
+     .contactInfo img{
+       width:40px
+    }
+  }
+  @media screen and (width<450px) {
+    .contactList{
+        margin-inline: 0.5rem;
+    }
+  }
