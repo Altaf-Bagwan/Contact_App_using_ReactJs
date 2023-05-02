@@ -1,5 +1,5 @@
 # Contact App using ReactJs
- I make a fully Responsive Contact App using ReactJs  which performs all CRUD operations 
+ I make a fully Responsive Contact App using ReactJs  which performs all CRUD operations  
  
  ![Screenshot (11)](https://user-images.githubusercontent.com/128160849/235631608-cf464b1f-ac84-456a-9e50-5e5281a0e2fb.png)
 ![Screenshot (10)](https://user-images.githubusercontent.com/128160849/235631633-3b477ea6-2d0e-4ffc-b0a3-cccf62e6edba.png)
