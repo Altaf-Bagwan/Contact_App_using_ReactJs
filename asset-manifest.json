@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Contact_App_using_ReactJs/static/css/main.c2e9a67b.css",
+    "main.js": "/Contact_App_using_ReactJs/static/js/main.d8621ba7.js",
+    "static/media/user.png": "/Contact_App_using_ReactJs/static/media/user.45a0af68515332b42be9.png",
+    "static/media/add.png": "/Contact_App_using_ReactJs/static/media/add.3140919037b5281d614a.png",
+    "index.html": "/Contact_App_using_ReactJs/index.html",
+    "main.c2e9a67b.css.map": "/Contact_App_using_ReactJs/static/css/main.c2e9a67b.css.map",
+    "main.d8621ba7.js.map": "/Contact_App_using_ReactJs/static/js/main.d8621ba7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e9a67b.css",
+    "static/js/main.d8621ba7.js"
+  ]
+}
